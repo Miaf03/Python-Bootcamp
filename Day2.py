@@ -1,4 +1,5 @@
-# Día 2. Calculadora de propinas
+
+# Día 2. Tip Calculator
 
 print("¡Bienvenido a la calculadora de propinas!")
 

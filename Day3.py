@@ -1,3 +1,4 @@
+
 # Día 3. Proyecto Isla del Tesoro
 # https://ascii.co.uk/art 
 
@@ -24,16 +25,16 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 *******************************************************************************
 ''')
 
-print("Bienvenido a la Isla del Tesoro")
+print("¡Bienvenido a la Isla del Tesoro!")
 print("Tu misión es encontrar el tesoro")
 
 choice1 = input("Estás en una encrucijada hacia dónde quieres ir escribe izquierda o derecha: ").lower()
 
 if choice1 == "izquierda":
-    choice2 = input("Has llegado a un lago donde hay una isla en medio. Escribe 'esperar' para esperar un barco o escribe 'nadar' para cruzar nadando: ").lower()
+    choice2 = input("Has llegado a un lago, hay una isla en medio. Escribe 'esperar' para esperar un barco o 'nadar' para cruzar nadando: ").lower()
 
     if choice2 == "esperar":
-        choice3 = input("Llegas a la isla sin sufrir daño alguno. Hay una casa con tres puertas: una roja, una amarilla y una azul. ¿Qué color eliges? ").lower()
+        choice3 = input("Llegas a la isla sin sufrir daño. Hay una casa con tres puertas: una roja, una amarilla y una azul. ¿Qué color eliges? ").lower()
 
         if choice3 == 'roja':
             print("Es una habitación llena de fuego ¡Fin del juego!")
