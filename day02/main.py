@@ -1,4 +1,10 @@
-# Día 2. Calculadora de propinas: Pide el total de la factura, pregunta que porcentaje de propina quiere dar 10, 12 0 15%, pregunta entre cuántas personas se repartiran la cuenta y muestra cuanto debe pagar cada persona
+
+'''Día 2. Calculadora de propinas:
+
+- Pide el total de la factura, 
+- Pregunta que porcentaje de propina quiere dar 10, 12 0 15%
+- Pregunta entre cuántas personas se repartiran la cuenta
+- Muestra cuanto debe pagar cada persona'''
 
 print("¡Bienvenido a la calculadora de propinas!")
 

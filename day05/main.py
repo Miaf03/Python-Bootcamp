@@ -1,4 +1,5 @@
-# Día 5. Generador de contraseñas: Pregunta al usuario cuántas letras, simbolos y números quiere en su contraseña 
+
+'''Día 5. Generador de contraseñas: Pregunta al usuario cuántas letras, simbolos y números quiere en su contraseña'''
 
 import random
 
