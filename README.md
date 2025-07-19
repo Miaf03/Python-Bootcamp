@@ -20,11 +20,10 @@
 ## 📚 Intermediate
 
 - [Day 15.](/Day15) Local Development Environment Setup & the Coffee Machine
+- [Day 16.](/Day16) Object Oriented Programming (OOP)
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **16/07/2025** | **Rest Day** |
-| **18/07/2025** | **Day 16**   |
 | **20/07/2025** | **Day 17**   |
 | **22/07/2025** | **Day 18**   |
 | **24/07/2025** | **Day 19**   |

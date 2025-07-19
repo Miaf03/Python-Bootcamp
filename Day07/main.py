@@ -6,8 +6,8 @@
 # If they guess incorrectly, they lose a life
 
 import random
-from hangman_art import stages, logo
 from hangman_words import word_list
+from hangman_art import stages, logo
 
 print(logo)
 
@@ -48,5 +48,3 @@ while not end_of_game:
     if "_" not in display:
         end_of_game = True
         print("You win")
-
-    # print(stages[lives])
