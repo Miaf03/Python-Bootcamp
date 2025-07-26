@@ -23,10 +23,10 @@
 - [Day 16.](/Day16) Object Oriented Programming (OOP)
 - [Day 17.](/Day17) The Quiz Project & the Benefits of OOP
 - [Day 18.](/Day18) Turtle & the Graphical User Interface (GUI)
+- [Day 19.](/Day19) Instances, State and Higher Order Functions
 
 | **Fecha**                   | **Proyecto** |
 | --------------------------- | ------------ |
-| **25/07/2025**              | **Day 19**   |
 | **26/07/2025**              | **Day 20**   |
 | **27/07/2025 - 29/07/2025** | **Práctica** |
 | **30/07/2025**              | **Day 21**   |
