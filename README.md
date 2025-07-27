@@ -24,10 +24,10 @@
 - [Day 17.](/Day17) The Quiz Project & the Benefits of OOP
 - [Day 18.](/Day18) Turtle & the Graphical User Interface (GUI)
 - [Day 19.](/Day19) Instances, State and Higher Order Functions
+- [Day 20.](/Day20) Build the Snake Game Part 1. Animation & Coordinates
 
 | **Fecha**                   | **Proyecto** |
 | --------------------------- | ------------ |
-| **26/07/2025**              | **Day 20**   |
 | **27/07/2025 - 29/07/2025** | **Práctica** |
 | **30/07/2025**              | **Day 21**   |
 | **31/07/2025**              | **Day 22**   |
