@@ -25,11 +25,10 @@
 - [Day 18.](/Day18) Turtle & the Graphical User Interface (GUI)
 - [Day 19.](/Day19) Instances, State and Higher Order Functions
 - [Day 20.](/Day20) Build the Snake Game Part 1. Animation & Coordinates
+- [Day 21.](/Day21) Build the Snake Game Part 2: Inheritance & List Slicing
 
 | **Fecha**                   | **Proyecto** |
 | --------------------------- | ------------ |
-| **27/07/2025 - 29/07/2025** | **Práctica** |
-| **30/07/2025**              | **Day 21**   |
 | **31/07/2025**              | **Day 22**   |
 | **01/08/2025**              | **Day 23**   |
 | **02/08/2025 - 04/08/2025** | **Práctica** |
