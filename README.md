@@ -26,12 +26,12 @@
 - [Day 19.](/Day19) Instances, State and Higher Order Functions
 - [Day 20.](/Day20) Build the Snake Game Part 1. Animation & Coordinates
 - [Day 21.](/Day21) Build the Snake Game Part 2: Inheritance & List Slicing
+- [Day 22.](/Day22) Build Pong: The Famous Arcade Game
+- [Day 23.](/Day23) The Turtle Crossing Capstone Project
 
 | **Fecha**                   | **Proyecto** |
 | --------------------------- | ------------ |
-| **31/07/2025**              | **Day 22**   |
-| **01/08/2025**              | **Day 23**   |
-| **02/08/2025 - 04/08/2025** | **Práctica** |
+| **01/08/2025 - 04/08/2025** | **---**      |
 | **05/08/2025**              | **Day 24**   |
 | **06/08/2025**              | **Day 25**   |
 | **07/08/2025**              | **Day 26**   |
