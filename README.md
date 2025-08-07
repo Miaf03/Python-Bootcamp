@@ -29,10 +29,10 @@
 - [Day 22.](/Day22) Build Pong: The Famous Arcade Game
 - [Day 23.](/Day23) The Turtle Crossing Capstone Project
 - [Day 24.](/Day24) Files, Directories and Paths
+- [Day 25.](/Day25) Working with CSV Data and the Pandas Library
 
 | **Fecha**                   | **Proyecto** |
 | --------------------------- | ------------ |
-| **06/08/2025**              | **Day 25**   |
 | **07/08/2025**              | **Day 26**   |
 | **08/08/2025 - 10/08/2025** | **Práctica** |
 | **11/08/2025**              | **Day 27**   |
