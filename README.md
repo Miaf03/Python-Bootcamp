@@ -30,10 +30,10 @@
 - [Day 23.](/Day23) The Turtle Crossing Capstone Project
 - [Day 24.](/Day24) Files, Directories and Paths
 - [Day 25.](/Day25) Working with CSV Data and the Pandas Library
+- [Day 26.](/Day26) List Comprehension and the NATO Alphabet
 
 | **Fecha**                   | **Proyecto** |
 | --------------------------- | ------------ |
-| **07/08/2025**              | **Day 26**   |
 | **08/08/2025 - 10/08/2025** | **Práctica** |
 | **11/08/2025**              | **Day 27**   |
 | **12/08/2025**              | **Day 28**   |
