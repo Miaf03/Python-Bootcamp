@@ -31,11 +31,10 @@
 - [Day 24.](/Day24) Files, Directories and Paths
 - [Day 25.](/Day25) Working with CSV Data and the Pandas Library
 - [Day 26.](/Day26) List Comprehension and the NATO Alphabet
+- [Day 27.](/Day27) Tkinter, *args, **kwargs and Creating GUI Programs
 
 | **Fecha**                   | **Proyecto** |
 | --------------------------- | ------------ |
-| **08/08/2025 - 10/08/2025** | **Práctica** |
-| **11/08/2025**              | **Day 27**   |
 | **12/08/2025**              | **Day 28**   |
 | **13/08/2025**              | **Day 29**   |
 | **14/08/2025 - 16/08/2025** | **Práctica** |
