@@ -32,10 +32,11 @@
 - [Day 25.](/Day25) Working with CSV Data and the Pandas Library
 - [Day 26.](/Day26) List Comprehension and the NATO Alphabet
 - [Day 27.](/Day27) Tkinter, *args, **kwargs and Creating GUI Programs
+- [Day 28.](/Day28) Tkinter, Dynamic Typing and the Pomodoro GUI Application
+
 
 | **Fecha**                   | **Proyecto** |
 | --------------------------- | ------------ |
-| **12/08/2025**              | **Day 28**   |
 | **13/08/2025**              | **Day 29**   |
 | **14/08/2025 - 16/08/2025** | **Práctica** |
 | **17/08/2025**              | **Day 30**   |
