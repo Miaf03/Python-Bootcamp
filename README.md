@@ -33,11 +33,10 @@
 - [Day 26.](/Day26) List Comprehension and the NATO Alphabet
 - [Day 27.](/Day27) Tkinter, *args, **kwargs and Creating GUI Programs
 - [Day 28.](/Day28) Tkinter, Dynamic Typing and the Pomodoro GUI Application
-
+- [Day 29.](/Day29) Building a Password Manager GUI App with Tkinter
 
 | **Fecha**                   | **Proyecto** |
 | --------------------------- | ------------ |
-| **13/08/2025**              | **Day 29**   |
 | **14/08/2025 - 16/08/2025** | **Práctica** |
 | **17/08/2025**              | **Day 30**   |
 | **18/08/2025**              | **Day 31**   |
