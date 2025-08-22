@@ -42,10 +42,10 @@
 
 - [Day 32.](/Day32) Send Email (smtplib) & Manage Dates (datetime)
 - [Day 33.](/Day33) API Endpoints & API Parameters - ISS Overhead Notifier
+- [Day 34.](/Day34) API Practice - Creating a GUI Quiz App
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **21/08/2025** | **Day 34**   |
 | **22/08/2025** | **Day 35**   |
 | **25/08/2025** | **Day 36**   |
 | **26/08/2025** | **Day 37**   |
