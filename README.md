@@ -43,10 +43,10 @@
 - [Day 32.](/Day32) Send Email (smtplib) & Manage Dates (datetime)
 - [Day 33.](/Day33) API Endpoints & API Parameters - ISS Overhead Notifier
 - [Day 34.](/Day34) API Practice - Creating a GUI Quiz App
+- [Day 35.](/Day35) Keys, Authentication & Environment Variables: Send SMS
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **22/08/2025** | **Day 35**   |
 | **25/08/2025** | **Day 36**   |
 | **26/08/2025** | **Day 37**   |
 | **27/08/2025** | **Day 38**   |
