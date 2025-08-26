@@ -44,10 +44,10 @@
 - [Day 33.](/Day33) API Endpoints & API Parameters - ISS Overhead Notifier
 - [Day 34.](/Day34) API Practice - Creating a GUI Quiz App
 - [Day 35.](/Day35) Keys, Authentication & Environment Variables: Send SMS
+- [Day 36.](/Day36) Stock Trading News Alert Project
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **25/08/2025** | **Day 36**   |
 | **26/08/2025** | **Day 37**   |
 | **27/08/2025** | **Day 38**   |
 | **28/08/2025** | **Day 39**   |
