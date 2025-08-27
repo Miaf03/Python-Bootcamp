@@ -45,10 +45,10 @@
 - [Day 34.](/Day34) API Practice - Creating a GUI Quiz App
 - [Day 35.](/Day35) Keys, Authentication & Environment Variables: Send SMS
 - [Day 36.](/Day36) Stock Trading News Alert Project
+- [Day 37.](/Day37) Habit Tracking Project: API Post Requests & Headers
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **26/08/2025** | **Day 37**   |
 | **27/08/2025** | **Day 38**   |
 | **28/08/2025** | **Day 39**   |
 | **29/08/2025** | **Day 40**   |
