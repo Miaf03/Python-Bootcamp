@@ -46,10 +46,10 @@
 - [Day 35.](/Day35) Keys, Authentication & Environment Variables: Send SMS
 - [Day 36.](/Day36) Stock Trading News Alert Project
 - [Day 37.](/Day37) Habit Tracking Project: API Post Requests & Headers
+- [Day 38.](/Day38) Workout Tracking Using Google Sheets
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **27/08/2025** | **Day 38**   |
 | **28/08/2025** | **Day 39**   |
 | **29/08/2025** | **Day 40**   |
 | **01/09/2025** | **Day 41**   |
