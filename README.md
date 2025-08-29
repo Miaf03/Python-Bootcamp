@@ -47,10 +47,10 @@
 - [Day 36.](/Day36) Stock Trading News Alert Project
 - [Day 37.](/Day37) Habit Tracking Project: API Post Requests & Headers
 - [Day 38.](/Day38) Workout Tracking Using Google Sheets
+- [Day 39.](/Day39) Capstone Part 1: Flight Deal Finder
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **28/08/2025** | **Day 39**   |
 | **29/08/2025** | **Day 40**   |
 | **01/09/2025** | **Day 41**   |
 | **02/09/2025** | **Day 42**   |
