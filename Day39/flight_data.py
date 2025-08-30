@@ -9,6 +9,7 @@ class FlightData:
         self.return_date = return_date
 
 def find_cheapest_flight(data):
+
     if data is None or not data['data']:
         print("No flight data")
         return FlightData("N/A", "N/A", "N/A", "N/A", "N/A")
@@ -34,3 +35,4 @@ def find_cheapest_flight(data):
             print(f"Lowest price to {destination} is £{lowest_price}")
 
     return cheapest_flight
+
