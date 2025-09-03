@@ -49,11 +49,11 @@
 - [Day 39.](/Day39) Capstone Part 1: Flight Deal Finder
 - [Day 40.](/Day40) Capstone Part 2: Flight Club
 - [Day 41.](/Day41) Introduction to HTML
+- [Day 42.](/Day42) Intermediate HTML
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **03/09/2025** | **Day 42**   |
-| **04/09/2025** | **Day 43**   |
+| **03/09/2025** | **Day 43**   |
 | **05/09/2025** | **Day 44**   |
 | **08/09/2025** | **Day 45**   |
 | **09/09/2025** | **Day 46**   |
