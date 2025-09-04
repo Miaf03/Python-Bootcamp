@@ -1,0 +1,110 @@
+body {
+  padding: 20px;
+  display: flex;
+  min-height: 100vh;
+  text-align: center;
+  align-items: center;
+  background: #f5f5f5;
+  flex-direction: column;
+  justify-content: center;
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.grid {
+  display: grid;
+  gap: 20px;
+  padding: 1rem;
+  margin: 0 auto;
+  max-width: 800px;
+  /* grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); */
+  grid-template-columns: repeat(auto-fit, 200px);
+  justify-content: center;
+}
+
+.card {
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  border-radius: 15px;
+  transition: transform 0.3s;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card:nth-child(1) {
+  background: rgb(212, 3, 3);
+}
+
+.card:nth-child(2) {
+  background: rgb(3, 3, 167);
+}
+
+.card:nth-child(3) {
+  background: rgb(2, 132, 2);
+}
+
+.card:nth-child(4) {
+    background: rgb(72, 8, 72);
+}
+
+.card:nth-child(5) {
+  background: rgb(236, 154, 1);
+}
+
+.card:nth-child(6) {
+  background: rgb(215, 90, 111);
+}
+
+.card:nth-child(7) {
+    background: rgb(255, 255, 0);
+}
+
+.card:nth-child(8) {
+  background: rgb(83, 83, 83);
+}
+
+.card:nth-child(9) {
+    background: rgb(81, 35, 35);
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.overlay {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  opacity: 0;
+  display: flex;
+  color: white;
+  font-size: 1.5rem;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  transition: all 0.4s ease;
+  transform: translateY(100%);
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.overlay p:first-child {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.overlay p:last-child {
+  margin: 0;
+  opacity: 0.8;
+  font-size: 1.2rem;
+}
+
+.card:hover .overlay {
+  transform: translateY(0);
+  opacity: 1;
+}
