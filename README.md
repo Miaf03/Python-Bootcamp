@@ -52,10 +52,10 @@
 - [Day 42.](/Day42) Intermediate HTML
 - [Day 43.](/Day43) Introduction to CSS
 - [Day 44.](/Day44) Intermediate CSS
+- [Day 45.](/Day45) Web Scraping with Beautiful Soup
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **04/09/2025** | **Day 45**   |
 | **05/09/2025** | **Day 46**   |
 | **08/09/2025** | **Day 47**   |
 | **09/09/2025** | **Day 48**   |
