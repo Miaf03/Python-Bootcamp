@@ -53,10 +53,10 @@
 - [Day 43.](/Day43) Introduction to CSS
 - [Day 44.](/Day44) Intermediate CSS
 - [Day 45.](/Day45) Web Scraping with Beautiful Soup
+- [Day 46.](/Day46) Create a Spotify Playlist using the Musical Time Machine
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **05/09/2025** | **Day 46**   |
 | **08/09/2025** | **Day 47**   |
 | **09/09/2025** | **Day 48**   |
 | **10/09/2025** | **Day 49**   |
