@@ -54,10 +54,10 @@
 - [Day 44.](/Day44) Intermediate CSS
 - [Day 45.](/Day45) Web Scraping with Beautiful Soup
 - [Day 46.](/Day46) Create a Spotify Playlist using the Musical Time Machine
+- [Day 47.](/Day47) Create an Automated Amazon Price Tracker
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **08/09/2025** | **Day 47**   |
 | **09/09/2025** | **Day 48**   |
 | **10/09/2025** | **Day 49**   |
 | **11/09/2025** | **Day 50**   |
