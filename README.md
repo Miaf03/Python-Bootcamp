@@ -56,10 +56,10 @@
 - [Day 46.](/Day46) Create a Spotify Playlist using the Musical Time Machine
 - [Day 47.](/Day47) Create an Automated Amazon Price Tracker
 - [Day 48.](/Day48) Selenium Webdriver Browser and Game Playing Bot
+- [Day 49.](/Day49) Automating your Exercise Routine at the Gym
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **10/09/2025** | **Day 49**   |
 | **11/09/2025** | **Day 50**   |
 | **12/09/2025** | **Day 51**   |
 | **15/09/2025** | **Day 52**   |
