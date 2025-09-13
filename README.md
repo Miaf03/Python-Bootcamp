@@ -57,11 +57,11 @@
 - [Day 47.](/Day47) Create an Automated Amazon Price Tracker
 - [Day 48.](/Day48) Selenium Webdriver Browser and Game Playing Bot
 - [Day 49.](/Day49) Automating your Exercise Routine at the Gym
+- [Day 50.](/Day50) Auto Swiping Bot
+- [Day 51.](/Day51) Internet Speed Twitter Complaint Bot
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **11/09/2025** | **Day 50**   |
-| **12/09/2025** | **Day 51**   |
 | **15/09/2025** | **Day 52**   |
 | **16/09/2025** | **Day 53**   |
 | **17/09/2025** | **Day 54**   |
