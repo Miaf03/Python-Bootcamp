@@ -59,10 +59,10 @@
 - [Day 49.](/Day49) Automating your Exercise Routine at the Gym
 - [Day 50.](/Day50) Auto Swiping Bot
 - [Day 51.](/Day51) Internet Speed Twitter Complaint Bot
+- [Day 52.](/Day52) Instagram Follower Bot
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **15/09/2025** | **Day 52**   |
 | **16/09/2025** | **Day 53**   |
 | **17/09/2025** | **Day 54**   |
 | **18/09/2025** | **Day 55**   |
