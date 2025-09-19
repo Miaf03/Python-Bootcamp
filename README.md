@@ -61,10 +61,10 @@
 - [Day 51.](/Day51) Internet Speed Twitter Complaint Bot
 - [Day 52.](/Day52) Instagram Follower Bot
 - [Day 53.](/Day53) Web Scraping Capstone - Data Entry Job Automation
+- [Day 54.](/Day54) Introduction to Web Development with Flask
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **18/09/2025** | **Day 54**   |
 | **19/09/2025** | **Day 55**   |
 | **22/09/2025** | **Day 56**   |
 | **23/09/2025** | **Day 57**   |
