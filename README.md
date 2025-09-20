@@ -62,10 +62,10 @@
 - [Day 52.](/Day52) Instagram Follower Bot
 - [Day 53.](/Day53) Web Scraping Capstone - Data Entry Job Automation
 - [Day 54.](/Day54) Introduction to Web Development with Flask
+- [Day 55.](/Day55) HTML & URL Parsing in Flask and the Higher Lower Game
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **19/09/2025** | **Day 55**   |
 | **22/09/2025** | **Day 56**   |
 | **23/09/2025** | **Day 57**   |
 | **24/09/2025** | **Day 58**   |
