@@ -65,10 +65,7 @@
 - [Day 55.](/Day55) HTML & URL Parsing in Flask and the Higher Lower Game
 - [Day 56.](/Day56) Rendering HTML/Static files and Using Website Templates
 - [Day 57.](/Day57) Templating with Jinja in Flask Applications
-
-| **Fecha**      | **Proyecto** |
-| -------------- | ------------ |
-| **26/09/2025** | **Day 58**   |
+- [Day 58.](/Day58) Web Foundation Bootstrap
 
 ## 🏆 Advanced
 
