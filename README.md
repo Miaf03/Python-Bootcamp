@@ -69,9 +69,10 @@
 
 ## 🏆 Advanced
 
+- [Day 59.](/Day59) Blog Capstone Project Part 2 - Adding Styling
+
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **29/09/2025** | **Day 59**   |
 | **30/09/2025** | **Day 60**   |
 | **01/10/2025** | **Day 61**   |
 | **02/10/2025** | **Day 62**   |
