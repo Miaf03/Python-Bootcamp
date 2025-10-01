@@ -70,10 +70,10 @@
 ## 🏆 Advanced
 
 - [Day 59.](/Day59) Blog Capstone Project Part 2 - Adding Styling
+- [Day 60.](/Day60) Make POST Requests with Flask and HTML Forms
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **30/09/2025** | **Day 60**   |
 | **01/10/2025** | **Day 61**   |
 | **02/10/2025** | **Day 62**   |
 | **03/10/2025** | **Day 63**   |
