@@ -72,10 +72,10 @@
 - [Day 59.](/Day59) Blog Capstone Project Part 2 - Adding Styling
 - [Day 60.](/Day60) Make POST Requests with Flask and HTML Forms
 - [Day 61.](/Day61) Building Advanced Forms with Flask-WTForms
+- [Day 62.](/Day62) Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **02/10/2025** | **Day 62**   |
 | **03/10/2025** | **Day 63**   |
 | **06/10/2025** | **Day 64**   |
 | **07/10/2025** | **Day 65**   |
