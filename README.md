@@ -73,10 +73,10 @@
 - [Day 60.](/Day60) Make POST Requests with Flask and HTML Forms
 - [Day 61.](/Day61) Building Advanced Forms with Flask-WTForms
 - [Day 62.](/Day62) Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
+- [Day 63.](/Day63) Databases with SQLite and SQLAlchemy
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **03/10/2025** | **Day 63**   |
 | **06/10/2025** | **Day 64**   |
 | **07/10/2025** | **Day 65**   |
 | **08/10/2025** | **Day 66**   |

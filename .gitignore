@@ -2,5 +2,6 @@
 *.pyc
 .vscode/
 .DS_Store
+instance/
 __pycache__/
 chrome_profile/
