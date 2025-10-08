@@ -75,10 +75,10 @@
 - [Day 62.](/Day62) Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
 - [Day 63.](/Day63) Databases with SQLite and SQLAlchemy
 - [Day 64.](/Day64) My Top 10 Movies Website
+- [Day 65.](/Day65) Web Design
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **07/10/2025** | **Day 65**   |
 | **08/10/2025** | **Day 66**   |
 | **09/10/2025** | **Day 67**   |
 | **10/10/2025** | **Day 68**   |
