@@ -76,10 +76,10 @@
 - [Day 63.](/Day63) Databases with SQLite and SQLAlchemy
 - [Day 64.](/Day64) My Top 10 Movies Website
 - [Day 65.](/Day65) Web Design
+- [Day 66.](/Day66) API with RESTful Routing
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **08/10/2025** | **Day 66**   |
 | **09/10/2025** | **Day 67**   |
 | **10/10/2025** | **Day 68**   |
 | **13/10/2025** | **Day 69**   |
