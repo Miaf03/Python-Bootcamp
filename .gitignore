@@ -1,7 +1,13 @@
+# Files
+
 *.env
 *.pyc
-.vscode/
 .DS_Store
+
+# Directory
+
+venv/
+.vscode/
 instance/
 __pycache__/
 chrome_profile/

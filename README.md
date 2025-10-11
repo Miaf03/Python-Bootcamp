@@ -77,11 +77,10 @@
 - [Day 64.](/Day64) My Top 10 Movies Website
 - [Day 65.](/Day65) Web Design
 - [Day 66.](/Day66) API with RESTful Routing
+- [Day 67.](/Day67) Blog Capstone Project Part 3 - RESTful Routing
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **09/10/2025** | **Day 67**   |
-| **10/10/2025** | **Day 67**   |
 | **13/10/2025** | **Day 68**   |
 | **14/10/2025** | **Day 69**   |
 | **15/10/2025** | **Day 70**   |
