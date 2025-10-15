@@ -79,10 +79,10 @@
 - [Day 66.](/Day66) API with RESTful Routing
 - [Day 67.](/Day67) Blog Capstone Project Part 3 - RESTful Routing
 - [Day 68.](/Day68) Authentication with Flask
+- [Day 69.](/Day69) Blog Capstone Project Part 4 - Adding Users
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **14/10/2025** | **Day 69**   |
 | **15/10/2025** | **Day 70**   |
 | **16/10/2025** | **Day 71**   |
 | **17/10/2025** | **Day 72**   |
