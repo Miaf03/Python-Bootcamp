@@ -81,10 +81,10 @@
 - [Day 68.](/Day68) Authentication with Flask
 - [Day 69.](/Day69) Blog Capstone Project Part 4 - Adding Users
 - [Day 70.](/Day70) Git & GitHub
+- [Day 71.](/Day71) Data Exploration with Pandas
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **16/10/2025** | **Day 71**   |
 | **17/10/2025** | **Day 72**   |
 | **20/10/2025** | **Day 73**   |
 | **21/10/2025** | **Day 74**   |
