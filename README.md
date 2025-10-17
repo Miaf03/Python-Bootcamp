@@ -82,10 +82,10 @@
 - [Day 69.](/Day69) Blog Capstone Project Part 4 - Adding Users
 - [Day 70.](/Day70) Git & GitHub
 - [Day 71.](/Day71) Data Exploration with Pandas
+- [Day 72.](/Day72) Data Visualisation with Matplotlib
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **17/10/2025** | **Day 72**   |
 | **20/10/2025** | **Day 73**   |
 | **21/10/2025** | **Day 74**   |
 | **22/10/2025** | **Day 75**   |
