@@ -4,10 +4,11 @@
 *.pyc
 .DS_Store
 
-# Directory
+# Directories
 
 venv/
 .vscode/
 instance/
 __pycache__/
 chrome_profile/
+.ipynb_checkpoints
