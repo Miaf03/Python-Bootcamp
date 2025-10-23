@@ -84,10 +84,10 @@
 - [Day 71.](/Day71) Data Exploration with Pandas
 - [Day 72.](/Day72) Data Visualisation with Matplotlib
 - [Day 73.](/Day73) Aggregate & Merge Data with Pandas
+- [Day 74.](/Day74) Google Trends Data
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **22/10/2025** | **Day 74**   |
 | **23/10/2025** | **Day 75**   |
 | **24/10/2025** | **Day 76**   |
 | **27/10/2025** | **Day 77**   |
