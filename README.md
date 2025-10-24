@@ -85,10 +85,10 @@
 - [Day 72.](/Day72) Data Visualisation with Matplotlib
 - [Day 73.](/Day73) Aggregate & Merge Data with Pandas
 - [Day 74.](/Day74) Google Trends Data
+- [Day 75.](/Day75) Plotly Charts & Analysing the Android App Store
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **23/10/2025** | **Day 75**   |
 | **24/10/2025** | **Day 76**   |
 | **27/10/2025** | **Day 77**   |
 | **28/10/2025** | **Day 78**   |
