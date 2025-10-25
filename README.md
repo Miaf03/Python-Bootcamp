@@ -86,10 +86,10 @@
 - [Day 73.](/Day73) Aggregate & Merge Data with Pandas
 - [Day 74.](/Day74) Google Trends Data
 - [Day 75.](/Day75) Plotly Charts & Analysing the Android App Store
+- [Day 76.](/Day76) Computation with NumPy and N-Dimensional Arrays
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **24/10/2025** | **Day 76**   |
 | **27/10/2025** | **Day 77**   |
 | **28/10/2025** | **Day 78**   |
 | **29/10/2025** | **Day 79**   |
