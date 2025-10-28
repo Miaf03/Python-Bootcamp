@@ -87,10 +87,10 @@
 - [Day 74.](/Day74) Google Trends Data
 - [Day 75.](/Day75) Plotly Charts & Analysing the Android App Store
 - [Day 76.](/Day76) Computation with NumPy and N-Dimensional Arrays
+- [Day 77.](/Day77) Linear Regression and Data Visualisation with Seaborn
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **27/10/2025** | **Day 77**   |
 | **28/10/2025** | **Day 78**   |
 | **29/10/2025** | **Day 79**   |
 | **30/10/2025** | **Day 80**   |
