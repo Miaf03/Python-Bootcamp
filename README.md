@@ -88,10 +88,10 @@
 - [Day 75.](/Day75) Plotly Charts & Analysing the Android App Store
 - [Day 76.](/Day76) Computation with NumPy and N-Dimensional Arrays
 - [Day 77.](/Day77) Linear Regression and Data Visualisation with Seaborn
+- [Day 78.](/Day78) Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **28/10/2025** | **Day 78**   |
 | **29/10/2025** | **Day 79**   |
 | **30/10/2025** | **Day 80**   |
 | **31/10/2025** | **Day 81**   |
