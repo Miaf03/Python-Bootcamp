@@ -89,10 +89,10 @@
 - [Day 76.](/Day76) Computation with NumPy and N-Dimensional Arrays
 - [Day 77.](/Day77) Linear Regression and Data Visualisation with Seaborn
 - [Day 78.](/Day78) Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
+- [Day 79.](/Day79) The Tragic Discovery of Handwashing: t-Tests & Distributions
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **29/10/2025** | **Day 79**   |
 | **30/10/2025** | **Day 80**   |
 | **31/10/2025** | **Day 81**   |
 
