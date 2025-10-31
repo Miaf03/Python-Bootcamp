@@ -90,16 +90,13 @@
 - [Day 77.](/Day77) Linear Regression and Data Visualisation with Seaborn
 - [Day 78.](/Day78) Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
 - [Day 79.](/Day79) The Tragic Discovery of Handwashing: t-Tests & Distributions
-
-| **Fecha**      | **Proyecto** |
-| -------------- | ------------ |
-| **30/10/2025** | **Day 80**   |
-| **31/10/2025** | **Day 81**   |
+- [Day 80.](/Day80) Capstone Project - Predict House Prices
 
 ## ⚔ Professional Portfolio Projects
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
+| **31/10/2025** | **Day 81**   |
 | **03/10/2025** | **Day 82**   |
 | **04/11/2025** | **Day 83**   |
 | **05/11/2025** | **Day 84**   |
