@@ -94,9 +94,10 @@
 
 ## ⚔ Professional Portfolio Projects
 
+- [Day 81.](/Day81) Text to Morse Code Converter
+
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **31/10/2025** | **Day 81**   |
 | **03/10/2025** | **Day 82**   |
 | **04/11/2025** | **Day 83**   |
 | **05/11/2025** | **Day 84**   |
