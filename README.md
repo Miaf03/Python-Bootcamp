@@ -96,7 +96,7 @@
 
 - [Day 81.](/Day81) Text to Morse Code Converter
 <!-- - [Day 82]() Website -->
-- [Day 83]() Tic Tac Toe
+- [Day 83](/Day83) Tic Tac Toe
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
