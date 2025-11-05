@@ -95,11 +95,11 @@
 ## ⚔ Professional Portfolio Projects
 
 - [Day 81.](/Day81) Text to Morse Code Converter
+<!-- - [Day 82]() Website -->
+- [Day 83]() Tic Tac Toe
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **04/11/2025** | **Day 82**   |
-| **04/11/2025** | **Day 83**   |
 | **05/11/2025** | **Day 84**   |
 | **06/11/2025** | **Day 85**   |
 | **07/11/2025** | **Day 86**   |
