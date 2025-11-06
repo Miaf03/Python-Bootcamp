@@ -4,7 +4,7 @@ from tkinter import messagebox
 class TicTacToe:
     def __init__(self, root):
         self.root = root
-        self.root.title("Tic Tac Toe ✨")
+        self.root.title("Tic Tac Toe")
         self.root.configure(bg="#222")
 
         self.current_player = "X"
@@ -36,7 +36,7 @@ class TicTacToe:
     def create_reset_button(self):
         reset_btn = tk.Button(
             self.root,
-            text="🔄 Reset Game",
+            text="Reset Game",
             font=("Arial", 14, "bold"),
             bg="#FFB800",
             fg="#222",
@@ -54,10 +54,10 @@ class TicTacToe:
             )
 
             if self.check_winner(self.current_player):
-                messagebox.showinfo("Game Over", f"🎉 Player {self.current_player} wins!")
+                messagebox.showinfo("Game Over", f"Player {self.current_player} wins!")
                 self.disable_buttons()
             elif " " not in self.board:
-                messagebox.showinfo("Game Over", "🤝 It's a draw!")
+                messagebox.showinfo("Game Over", "It's a draw!")
                 self.disable_buttons()
             else:
                 self.current_player = "O" if self.current_player == "X" else "X"
