@@ -95,7 +95,7 @@
 ## ⚔ Professional Portfolio Projects
 
 - [Day 81.](/Day81) Text to Morse Code Converter
-- [Day 82]()
+- [Day 82](/Day82/) Website
 - [Day 83](/Day83) Tic Tac Toe
 - [Day 84](/Day84) Image Watermarking Desktop App
 - [Day 85](/Day85) Typing Speed Test
@@ -103,7 +103,6 @@
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **08/11/2025** | **Day 82**   |
 | **10/11/2025** | **Day 87**   |
 | **11/11/2025** | **Day 88**   |
 | **12/11/2025** | **Day 89**   |
