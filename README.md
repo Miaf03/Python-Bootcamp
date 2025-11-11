@@ -100,10 +100,10 @@
 - [Day 84](/Day84) Image Watermarking Desktop App
 - [Day 85](/Day85) Typing Speed Test
 - [Day 86](/Day86) Breakout Game
+- [Day 87](/Day87) Cafe and Wifi Website
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **10/11/2025** | **Day 87**   |
 | **11/11/2025** | **Day 88**   |
 | **12/11/2025** | **Day 89**   |
 | **13/11/2025** | **Day 90**   |

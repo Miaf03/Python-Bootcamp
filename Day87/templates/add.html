@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add Café</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Add a New Café</h1>
+        <a href="{{ url_for('home') }}" class="btn">← Back</a>
+    </header>
+    <main>
+        <form method="POST">
+            <label>Café Name:</label>
+            <input type="text" name="name" required>
+
+            <label>Location (URL or address):</label>
+            <input type="text" name="location" required>
+
+            <label>Wifi Quality:</label>
+            <select name="wifi">
+                <option>⭐</option>
+                <option>⭐⭐</option>
+                <option>⭐⭐⭐</option>
+                <option>⭐⭐⭐⭐</option>
+                <option>⭐⭐⭐⭐⭐</option>
+            </select>
+
+            <label>Power Availability:</label>
+            <select name="power">
+                <option>⚡ Low</option>
+                <option>⚡⚡ Medium</option>
+                <option>⚡⚡⚡ High</option>
+            </select>
+
+            <label>Coffee Price:</label>
+            <input type="text" name="coffee_price" required>
+
+            <button type="submit">Add Café</button>
+        </form>
+    </main>
+</body>
+</html>

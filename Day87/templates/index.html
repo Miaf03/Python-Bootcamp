@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cafés & Wifi</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>☕ Cafés & Wifi</h1>
+        <a href="{{ url_for('add_cafe') }}" class="btn">+ Add New Café</a>
+    </header>
+
+    <main>
+        <div class="cards">
+            {% for cafe in cafes %}
+            <div class="card">
+                <h2>{{ cafe[1] }}</h2>
+                <p>📍 {{ cafe[2] }}</p>
+                <p>💻 Wifi: {{ cafe[3] }}</p>
+                <p>🔌 Power: {{ cafe[4] }}</p>
+                <p>💲 Coffee Price: {{ cafe[5] }}</p>
+
+                <form action="{{ url_for('delete_cafe', cafe_id=cafe[0]) }}" method="post" style="margin-top: 10px;">
+                    <button type="submit" class="delete-btn">Delete</button>
+                </form>
+            </div>
+            {% else %}
+            <p class="empty">No cafes added yet.</p>
+            {% endfor %}
+        </div>
+    </main>
+</body>
+</html>
