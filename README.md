@@ -101,10 +101,10 @@
 - [Day 85](/Day85) Typing Speed Test
 - [Day 86](/Day86) Breakout Game
 - [Day 87](/Day87) Cafe and Wifi Website
+- [Day 88](/Day88) Todo List
 
 | **Fecha**      | **Proyecto** |
 | -------------- | ------------ |
-| **11/11/2025** | **Day 88**   |
 | **12/11/2025** | **Day 89**   |
 | **13/11/2025** | **Day 90**   |
 | **14/11/2025** | **Day 91**   |

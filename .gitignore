@@ -15,4 +15,4 @@ chrome_profile/
 
 # Database
 
-*cafes.db
+*.db
