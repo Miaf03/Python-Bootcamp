@@ -105,3 +105,4 @@
 - [Day 89](/Day89) Disappearing Text Writing App
 - [Day 90](/Day90) Convert PDF to Audiobook
 - [Day 91](/Day91) Image Colour Palette Generator
+- [Day 92](/Day92) Custom Web Scraper
