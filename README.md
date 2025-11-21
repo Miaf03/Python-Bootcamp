@@ -31,7 +31,7 @@
 - [Day 24.](/Day24) Files, Directories and Paths
 - [Day 25.](/Day25) Working with CSV Data and the Pandas Library
 - [Day 26.](/Day26) List Comprehension and the NATO Alphabet
-- [Day 27.](/Day27) Tkinter, \*args, \*\*kwargs and Creating GUI Programs
+- [Day 27.](/Day27) Tkinter, args, kwargs and Creating GUI Programs
 - [Day 28.](/Day28) Tkinter, Dynamic Typing and the Pomodoro GUI Application
 - [Day 29.](/Day29) Building a Password Manager GUI App with Tkinter
 - [Day 30.](/Day30) Errors, Exceptions and JSON Data: Improving the Password
@@ -95,14 +95,15 @@
 ## ⚔ Professional Portfolio Projects
 
 - [Day 81.](/Day81) Text to Morse Code Converter
-- [Day 82](/Day82/) Website
-- [Day 83](/Day83) Tic Tac Toe
-- [Day 84](/Day84) Image Watermarking Desktop App
-- [Day 85](/Day85) Typing Speed Test
-- [Day 86](/Day86) Breakout Game
-- [Day 87](/Day87) Cafe and Wifi Website
-- [Day 88](/Day88) Todo List
-- [Day 89](/Day89) Disappearing Text Writing App
-- [Day 90](/Day90) Convert PDF to Audiobook
-- [Day 91](/Day91) Image Colour Palette Generator
-- [Day 92](/Day92) Custom Web Scraper
+- [Day 82.](/Day82) Website
+- [Day 83.](/Day83) Tic Tac Toe
+- [Day 84.](/Day84) Image Watermarking Desktop App
+- [Day 85.](/Day85) Typing Speed Test
+- [Day 86.](/Day86) Breakout Game
+- [Day 87.](/Day87) Cafe and Wifi Website
+- [Day 88.](/Day88) Todo List
+- [Day 89.](/Day89) Disappearing Text Writing App
+- [Day 90.](/Day90) Convert PDF to Audiobook
+- [Day 91.](/Day91) Image Colour Palette Generator
+- [Day 92.](/Day92) Custom Web Scraper
+- [Day 93.](/Day93) Automate the Google Dinosaur Game
