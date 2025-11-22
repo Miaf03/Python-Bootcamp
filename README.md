@@ -107,3 +107,4 @@
 - [Day 91.](/Day91) Image Colour Palette Generator
 - [Day 92.](/Day92) Custom Web Scraper
 - [Day 93.](/Day93) Automate the Google Dinosaur Game
+- [Day 94.](/Day94) Space Invaders
