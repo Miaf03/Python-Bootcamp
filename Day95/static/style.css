@@ -1,0 +1,130 @@
+:root {
+    --bg: #0f1724;
+    --card: #0b1220;
+    --muted: #9aa7bd;
+    --accent: #4f46e5;
+    --glass: rgba(255, 255, 255, 0.03);
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    color: #e6eef8;
+    min-height: 100vh;
+    padding: 40px 16px;
+    justify-content: center;
+    align-items: flex-start;
+    font-family: Inter, "Segoe UI", Roboto, Arial;
+    background: linear-gradient(180deg, #071226 0%, #0b1020 100%);
+}
+
+.container {
+    width: 100%;
+    max-width: 960px;
+}
+
+h1 {
+    color: #fff;
+    font-weight: 600;
+    margin: 0 0 16px 0;
+    text-align: center;
+}
+
+.search {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+
+.search input,
+.search select {
+    border: none;
+    outline: none;
+    color: #e6eef8;
+    padding: 10px 12px;
+    border-radius: 8px;
+    background: var(--glass);
+}
+
+.search button {
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 8px;
+    padding: 10px 16px;
+    background: var(--accent);
+}
+
+.hidden {
+    display: none;
+}
+
+.error {
+    margin-top: 12px;
+    color: #ff6b6b;
+    text-align: center;
+}
+
+.current-card {
+    display: flex;
+    gap: 18px;
+    padding: 18px;
+    align-items: center;
+    margin-bottom: 18px;
+    border-radius: 12px;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.02), rgba(255, 255, 255, 0.01));
+}
+
+.city {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.temp-row {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+}
+
+.temp {
+    font-size: 42px;
+    font-weight: 700;
+}
+
+.desc {
+    color: var(--muted);
+    text-transform: capitalize;
+}
+
+.details {
+    display: flex;
+    gap: 16px;
+    margin-top: 8px;
+    color: var(--muted);
+}
+
+.forecast {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.day-card {
+    width: 120px;
+    padding: 10px;
+    font-size: 14px;
+    color: #dbeafe;
+    text-align: center;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.03);
+}
+
+.day {
+    font-weight: 600;
+    margin-bottom: 6px;
+}

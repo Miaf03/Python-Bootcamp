@@ -108,3 +108,4 @@
 - [Day 92.](/Day92) Custom Web Scraper
 - [Day 93.](/Day93) Automate the Google Dinosaur Game
 - [Day 94.](/Day94) Space Invaders
+- [Day 95.](/Day95) Custom API Based Website

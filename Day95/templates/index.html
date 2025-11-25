@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <title>Weather Dashboard</title>
+        <link rel="stylesheet" href="/static/style.css">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+    </head>
+    <body>
+        <main class="container">
+            <h1>Weather Dashboard</h1>
+            
+            <form id="searchForm" class="search">
+                <input id="cityInput" type="text" placeholder="Busca una ciudad" required>
+                <select id="units">
+                    <option value="metric">°C</option>
+                    <option value="imperial">°F</option>
+                </select>
+                <button type="submit">Buscar</button>
+            </form>
+
+            <section id="result" class="hidden">
+                <div class="current-card">
+                <div class="city" id="cityName"></div>
+                    <div class="temp-row">
+                        <img id="currentIcon" src="#" alt="icon">
+                        <div class="temps">
+                            <div id="currentTemp" class="temp"></div>
+                            <div id="currentDesc" class="desc"></div>
+                        </div>
+                    </div>
+                    <div class="details">
+                        <span id="feels">Sensación: —</span>
+                        <span id="hum">Humedad: —</span>
+                        <span id="wind">Viento: —</span>
+                    </div>
+                </div>
+                <div class="forecast" id="forecast"></div>
+            </section>
+            <div id="error" class="hidden error"></div>
+        </main>
+
+        <script src="/static/script.js"></script>
+    </body>
+</html>
