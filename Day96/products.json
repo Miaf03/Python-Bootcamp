@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "name": "Auriculares",
+        "price": 800,
+        "image": "/static/img/audifonos.jpg"
+    },
+
+    {
+        "id": 2,
+        "name": "Smartwatch Pro",
+        "price": 1300,
+        "image": "/static/img/smartwatch.png"
+    },
+
+    {
+        "id": 3,
+        "name": "MacBook Pro",
+        "price": 35000,
+        "image": "/static/img/mac.jpg"
+    },
+
+    {
+        "id": 4,
+        "name": "Cámara DSLR",
+        "price": 8000,
+        "image": "/static/img/camara.jpg"
+    },
+
+    {
+        "id": 5,
+        "name": "Baterias Portátiles",
+        "price": 2700,
+        "image": "/static/img/bateria.jpg"
+    },
+
+    {
+      "id": 6,
+      "name": "Tablet",
+      "price": 10000,
+      "image": "/static/img/tablet.jpg"
+    },
+
+    {
+      "id": 7,
+      "name": "Gafas",
+      "price": 1400,
+      "image": "/static/img/gafas.jpg"
+    },
+    
+    {
+      "id": 8,
+      "name": "Drones",
+      "price": 3400,
+      "image": "/static/img/dron.jpg"
+    },
+
+    {
+        "id": 10,
+        "name": "Asistentes I.",
+        "price": 3700,
+        "image": "/static/img/asistentes.jpg"
+    }
+]

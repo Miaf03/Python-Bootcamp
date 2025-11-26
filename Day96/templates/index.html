@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>Tienda Online</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+        <script defer src="{{ url_for('static', filename='main.js') }}"></script>
+    </head>
+    <body>
+
+        <!-- HEADER -->
+
+        <header class="header">
+            <h1 class="logo">Mi Tienda Online</h1>
+            <div class="cart-icon" id="cart-btn">
+                🛒 <span id="cart-count">0</span>
+            </div>
+        </header>
+
+        <!-- LISTA DE PRODUCTOS -->
+
+        <main>
+            <section class="products-grid">
+                {% for p in products %}
+                <div class="product-card">
+                    <div class="image-wrapper">
+                        <img src="{{ p.image }}" alt="{{ p.name }}">
+                    </div>
+                    <div class="product-info">
+                        <h3>{{ p.name }}</h3>
+                        <p class="price">$ {{ p.price }}</p>
+                        <button class="btn-add" onclick="addToCart({{ p.id }}, '{{ p.name }}', {{ p.price }}, '{{ p.image }}')">Añadir al carrito</button>
+                    </div>
+                </div>
+                {% endfor %}
+            </section>
+        </main>
+
+        <!-- CARRITO -->
+
+        <aside id="cart-panel" class="cart-panel">
+            <div class="cart-header">
+                <h2>Carrito</h2>
+                <button id="close-cart" class="close-btn">✖</button>
+            </div>
+
+            <div id="cart-items"></div>
+
+            <div class="cart-footer">
+                <h3>Total: <span id="total-price">$0</span></h3>
+                <button class="checkout-btn" id="checkout-btn">Proceder al pago</button>
+            </div>
+        </aside>
+    </body>
+</html>
