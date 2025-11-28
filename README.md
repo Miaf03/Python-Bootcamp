@@ -110,3 +110,4 @@
 - [Day 94.](/Day94) Space Invaders
 - [Day 95.](/Day95) Custom API Based Website
 - [Day 96.](/Day96) An Online Shop
+- [Day 97.](/Day97) Custom Automation
