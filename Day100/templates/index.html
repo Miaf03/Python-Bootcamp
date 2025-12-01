@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <title>Buggy — Tu Maestro de Programación</title>
+        <link rel="stylesheet" href="/static/style.css">
+        <link rel="icon" href="/assets/logo.png">
+    </head>
+    <body>
+        <div class="app">
+            <header>
+                <div class="brand">
+                    <img src="/assets/logo.png" alt="Buggy" class="logo">
+                    <div>
+                        <h1>Buggy</h1>
+                        <p class="subtitle">Tu maestro virtual de tecnología y programación</p>
+                    </div>
+                </div>
+            </header>
+            <main>
+                <div class="controls">
+                    <select id="mode">
+                        <option value="explain">Explicar / Preguntar</option>
+                        <option value="challenge">Dame un reto</option>
+                        <option value="review">Revisa mi código</option>
+                    </select>
+
+                    <select id="difficulty" style="display: none">
+                        <option value="easy">Fácil</option>
+                        <option value="medium" selected>Medio</option>
+                        <option value="hard">Difícil</option>
+                    </select>
+
+                    <button id="themeToggle" class="tiny">🌙</button>
+                </div>
+
+                <div id="chat" class="chat" role="log" aria-live="polite"></div>
+
+                <textarea id="input" placeholder="Escribe tu pregunta o pega tu código aquí..." aria-label="Mensaje"></textarea>
+
+                <div class="actions">
+                    <button id="send">Enviar a Buggy</button>
+                    <button id="clear">Limpiar</button>
+                </div>
+            </main>
+        </div>
+
+        <script src="/static/script.js" defer></script>
+    </body>
+</html>
