@@ -113,4 +113,4 @@
 - [Day 97.](/Day97) Custom Automation
 - [Day 98.](/Day98) Analyse and Visualise the Space Race
 - [Day 99.](/Day99) Analyse Deaths involving Police in the United States
-- [Day 100.](/Day100.) Chatbot
+- [Day 100.](/Day100) Chatbot
